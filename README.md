@@ -32,15 +32,15 @@ Passionate about coding, problem-solving, and building innovative solutions with
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swaroopp15&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swaroopp15&theme=dark&hide_border=true)
+*(![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swaroopp15&theme=dark&hide_border=true))*
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swaroopp15&layout=compact&theme=dark)
 
 ---
 
 ### 🌍 Connect with Me
 📧 **Email:** swarooppalacharla15@gmail.com *(Replace with your actual email if you want to share it)*  
-🔗 **LinkedIn:** [Your LinkedIn](#) *(Replace with your actual LinkedIn link)*  
-🐦 **Twitter:** [Your Twitter](#) *(Replace with your actual Twitter link)*
+*(🔗 **LinkedIn:** [Your LinkedIn](#) *(Replace with your actual LinkedIn link)*  
+🐦 **Twitter:** [Your Twitter](#) *(Replace with your actual Twitter link)*)*
 
 ---
 
