@@ -37,7 +37,7 @@ Passionate about coding, problem-solving, and building innovative solutions with
 ---
 
 ### 🌍 Connect with Me
-📧 **Email:** swarooppalacharla15@gmail.com *(Replace with your actual email if you want to share it)*  
+📧 **Email:** swarooppalacharla15@gmail.com
 
 
 ---
