@@ -32,7 +32,6 @@ Passionate about coding, problem-solving, and building innovative solutions with
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swaroopp15&show_icons=true&theme=dark)
-*(![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swaroopp15&theme=dark&hide_border=true))*
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swaroopp15&layout=compact&theme=dark)
 
 ---
