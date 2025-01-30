@@ -1,46 +1,59 @@
-## Hi there, I'm Swaroop! 👋
+# 👋 Hi there, I'm Swaroop! 🚀  
 
-### 🚀 About Me
-Passionate about coding, problem-solving, and building innovative solutions with a focus on continuous learning and collaboration.
-
----
-
-### 🛠 Tech Stack & Skills
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-
-**Frameworks & Libraries:**  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) 
-![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-
-**Tools & Platforms:**  
-![Hasura](https://img.shields.io/badge/-Hasura-1EB4D4?logo=hasura&logoColor=white&style=flat) 
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+Passionate about coding, problem-solving, and building innovative solutions. I love working with cutting-edge technologies to create scalable and efficient applications. Continuous learning and collaboration drive my journey!  
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swaroopp15&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swaroopp15&layout=compact&theme=dark)
+## 🛠 Tech Stack & Skills  
+
+### **Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)  
+
+### **Frameworks & Libraries:**  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
+![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)  
+
+### **Databases:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
+
+### **Tools & Platforms:**  
+![Hasura](https://img.shields.io/badge/-Hasura-1EB4D4?logo=hasura&logoColor=white&style=for-the-badge)  
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
 
 ---
 
-### 🌍 Connect with Me
-📧 **Email:** swarooppalacharla15@gmail.com
+## 📊 GitHub Stats  
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Swaroopp15&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaroopp15&layout=compact&theme=dark&hide_border=true" width="48%" />
+</div>
 
 ---
 
-### 🎉 Thanks for Visiting! 🚀
-![Thanks](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+## 🌍 Connect with Me  
+
+💌 **Email:** [swarooppalacharla15@gmail.com](mailto:swarooppalacharla15@gmail.com)  
+
+📌 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+
+🌐 **Portfolio:** [Your Portfolio](https://your-portfolio-link.com)  
+
+---
+
+### 🎉 Thanks for Visiting! Keep Coding & Innovating! 🚀  
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" />
+</div>
+
+---
+
+### 🔥 Fun Fact:  
+💡 *"Code is like humor. When you have to explain it, it’s bad."* 😆  
