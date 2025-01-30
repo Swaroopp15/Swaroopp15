@@ -1,5 +1,6 @@
-# 👋 Hi there, I'm Swaroop! 🚀  
+# 👋 Hi there, I'm Swaroop! 
 
+# 🚀
 Passionate about coding, problem-solving, and building innovative solutions. I love working with cutting-edge technologies to create scalable and efficient applications. Continuous learning and collaboration drive my journey!  
 
 ---
