@@ -42,10 +42,6 @@ Passionate about coding, problem-solving, and building innovative solutions. I l
 
 💌 **Email:** [swarooppalacharla15@gmail.com](mailto:swarooppalacharla15@gmail.com)  
 
-📌 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-
-🌐 **Portfolio:** [Your Portfolio](https://your-portfolio-link.com)  
-
 ---
 
 ### 🎉 Thanks for Visiting! Keep Coding & Innovating! 🚀  
