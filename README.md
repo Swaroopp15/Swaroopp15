@@ -48,7 +48,3 @@ Passionate about coding, problem-solving, and building innovative solutions. I l
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" />
 </div>
 
----
-
-### 🔥 Fun Fact:  
-💡 *"Code is like humor. When you have to explain it, it’s bad."* 😆  
